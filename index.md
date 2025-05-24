@@ -1,3 +1,5 @@
 #  ABCDEF
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-!alt="Girl in a jacket"
+# This is an image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)alt="Image"
+
+
