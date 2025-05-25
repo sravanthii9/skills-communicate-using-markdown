@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 - [ ] My List Example
+
+
+*To merge pull request*
+_To check the changes_
