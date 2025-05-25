@@ -17,3 +17,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 *To merge pull request*
+_To check the changes_
